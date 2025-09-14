@@ -30,26 +30,26 @@
 ### 🔎 Port Scanner  
 - Developed a **custom network port scanner** for security audits and reconnaissance  
 - Supports scanning multiple ports and identifying open/closed services  
-- [Repo Link](https://github.com/divyankakirola03/Port-Scanner)  
+- [Repo Link](https://github.com/divyankakirola03/python-port-scanner.git)
 
 ### 🛡️ Intrusion Detection System (IDS)  
 - Built a **network IDS** to detect malicious activities and improve network defence  
 - Implemented alert mechanisms for abnormal traffic patterns  
-- [Repo Link](https://github.com/divyankakirola03/IDS)  
+- [Repo Link](https://github.com/divyankakirola03/network-ids.git).
 
 ### ✋ Hand Gesture Game Setup  
 - Created an **interactive game** using computer vision and hand gesture recognition  
 - Applied OpenCV to capture gestures and control game mechanics  
 - [Repo Link](https://github.com/divyankakirola03/Hand-Gesture-Game)  
 
-### 🔑 Password Strength Checker  
+### 🔑 Password Generator 
 - Implemented a tool to **evaluate and enhance password security**  
 - Uses entropy and character set analysis to suggest improvements  
-- [Repo Link](https://github.com/divyankakirola03/Password-Strength-Checker)  
+- [Repo Link](https://github.com/divyankakirola03/Password-Generator.git)  
 
 ### ⚡ Other Projects  
-- Cipher implementations, password generators, logging systems, and secure web apps  
-- [Repo Link](https://github.com/divyankakirola03)  
+- Cipher implementations, text-encryption-caesar, logging systems, and secure web apps  
+- [Repo Link](https://github.com/divyankakirola03?tab=repositories).
 
 ---
 
